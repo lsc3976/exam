@@ -135,3 +135,7 @@ CPU의 덧셈 연산은 2개의 피연산자를 다루므로 20 + 7 를 계산�
 그럼에도 스택 기반의 VM을 사용하는 이유는 레지스터 기반 VM보다 하드웨어(레지스터 개수,사이즈, CPU) 에 적게 의존하기 때문이다. <br>
 파이썬 또한 스택을 기반으로 연산을 수행하는 스택 가상머신을 채택함으로써 가장 높은 프로그래밍 언어 점유율을 보여주며 유용성을 입증하고있다. <br>
 
+
+
+출처 : https://velog.io/@andthensome/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0#%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC--%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0 <br>
+https://www.korecmblog.com/jvm-stack-and-register/
